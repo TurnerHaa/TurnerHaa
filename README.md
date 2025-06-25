@@ -1,4 +1,12 @@
 <h1 align="center"> Hi 👋, I'm Harry Turner</h1>
+<hr>
+<h3 align="center"> Data Analyst/Engineer</h3>
+
+I'm a data journalist looking to spend more time in the technical side of data as data engineer/scientist. I've spent four years working with clients around the world to turn their complex data into clear stories.
+
+🧑‍💻 R | Python | SQL | Excel
+
+🌱 I’m currently learning more about Python and PowerBI
 
 <!--
 **TurnerHaa/TurnerHaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
