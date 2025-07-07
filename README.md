@@ -2,7 +2,7 @@
 <hr>
 <h3 align="center"> Data Journalist/Analyst</h3>
 
-I'm a data journalist looking to spend more time in the technical side of data as data engineer/scientist. I've spent four years working with clients around the world to turn their complex data into clear, compelling stories.
+I'm a data journalist looking to spend more time in the technical side of data. I've spent four years working with clients around the world to turn their complex data into clear, compelling stories.
 
 🧑‍💻 R | Python | SQL | Excel
 
