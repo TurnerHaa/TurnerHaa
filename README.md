@@ -6,8 +6,7 @@ I'm a data journalist looking to spend more time in the technical side of data. 
 
 🧑‍💻 R | Python | SQL | Excel
 
-🌱 I’m currently learning more about Python and Tableau
-
+🌱 I’m currently learning more about Python
 <!--
 **TurnerHaa/TurnerHaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
