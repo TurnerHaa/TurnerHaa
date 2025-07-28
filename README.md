@@ -4,7 +4,7 @@
 
 I'm a data journalist looking to spend more time in the technical side of data. I've spent four years working with clients around the world to turn their complex data into clear, compelling stories.
 
-🧑‍💻 R | Python | SQL | Excel
+🧑‍💻 R | Python | SQL | Excel | Power BI | Tableau
 
 🌱 I’m currently learning more about Python
 <!--
