@@ -4,7 +4,7 @@
 
 I'm a data analyst looking to expand further into technical side of data. I've spent four years working with clients around the world to turn their complex data into clear, compelling stories.
 
-🧑‍💻 R | Python | SQL | Excel | Power BI | Tableau
+🧑‍💻 R | Python | SQL | Excel | Power BI | Tableau | Looker | Hugo
 
 🌱 I’m currently learning more about Python
 <!--
