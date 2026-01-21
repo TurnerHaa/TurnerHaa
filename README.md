@@ -6,7 +6,6 @@ I'm a data analyst looking to expand further into technical side of data. I've s
 
 🧑‍💻 R | Python | SQL | Excel | Power BI | Tableau | Looker | Hugo
 
-🌱 I’m currently learning more about Python
 <!--
 **TurnerHaa/TurnerHaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
