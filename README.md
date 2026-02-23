@@ -2,7 +2,7 @@
 <hr>
 <h3 align="center"> Data Analyst/Journalist</h3>
 
-I'm a data analyst looking to expand further into technical side of data. I've spent four years working with clients around the world to turn their complex data into clear, compelling stories.
+I'm a data analyst working with clients around the world to turn their complex data into clear, compelling stories.
 
 🧑‍💻 R | Python | SQL | Excel | Power BI | Tableau | Looker | Hugo
 
