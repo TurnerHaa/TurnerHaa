@@ -1,7 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Harry 📊</h1>
 <hr>
 <h3 align="center"> Data Analyst/Journalist</h3>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-turner-436120144/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-turner-436120144/)
 
 Data analyst working with clients around the world to turn their complex data into clear, compelling stories.
 
