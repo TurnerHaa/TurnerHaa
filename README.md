@@ -1,4 +1,6 @@
-<img width="1408" height="768" alt="ProfileBanner-code" src="https://github.com/user-attachments/assets/6afa1d84-937d-447c-9baa-fb39a7d46768" />
+<img width="1408" height="355" alt="ProfileBanner-codeNarrow" src="https://github.com/user-attachments/assets/85f1117e-7a95-4e8c-b8e5-c1245e8bb5af" />
+
+
 <h1 align="center"> Hi 👋, I'm Harry 📊</h1>
 <hr>
 <h3 align="center"> Data Analyst/Journalist</h3>
