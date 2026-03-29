@@ -3,19 +3,13 @@
 
 <h1 align="center"> Hi 👋, I'm Harry 📊</h1>
 
-<h3 align="center"> Data Analyst/Journalist</h3>
+<h3 align="center"> Data analyst with a passion for energy and climate stories.</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,git,supabase,postgres,bash,hugo" />
   </a>
 </p>
-
-
-Data analyst turning complex data into clear, compelling stories.
-
-
-🧑‍💻 R | Python | SQL | Excel | Power BI | Tableau | Looker | Hugo
 
 <!--
 **TurnerHaa/TurnerHaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
