@@ -5,7 +5,7 @@
 Data analyst working with clients around the world to turn their complex data into clear, compelling stories.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,postgres,postman,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=py,r,postgres,supabase, postman,github,bash," />
   <img src="https://skillicons.dev/icons?i=notion,js,vue,redux,d3,git,postman,figma" />
 </p>
 
