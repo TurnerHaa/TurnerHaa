@@ -5,8 +5,7 @@
 Data analyst working with clients around the world to turn their complex data into clear, compelling stories.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,postgres,supabase,postman,github,bash" />
-  <img src="https://skillicons.dev/icons?i=notion,js,vue,redux,d3,git,postman,figma" />
+[![My Skills](https://skillicons.dev/icons?i=py,r,postgres,supabase,postman,github,bash,notion,js,vue,redux,d3,git,postman,figma&perline=3)](https://skillicons.dev)
 </p>
 
 🧑‍💻 R | Python | SQL | Excel | Power BI | Tableau | Looker | Hugo
