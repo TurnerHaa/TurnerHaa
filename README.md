@@ -2,12 +2,18 @@
 
 
 <h1 align="center"> Hi 👋, I'm Harry 📊</h1>
-<hr>
+
 <h3 align="center"> Data Analyst/Journalist</h3>
 
-Data analyst working with clients around the world to turn their complex data into clear, compelling stories.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,git,supabase,bash" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+Data analyst turning complex data into clear, compelling stories.
+
 
 🧑‍💻 R | Python | SQL | Excel | Power BI | Tableau | Looker | Hugo
 
