@@ -4,10 +4,7 @@
 
 Data analyst working with clients around the world to turn their complex data into clear, compelling stories.
 
-<p align="center">
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
-  
+<p align="center">  
 [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,supabase,postman,github,bash,notion,js,vue,redux,d3,git,postman,figma&perline=3)](https://skillicons.dev)
 </p>
 
