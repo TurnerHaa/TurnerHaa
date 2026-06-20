@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi 👋, I'm Harry 📊</h1>
 
-<h3 align="center"> Data analyst passionate about energy and gaming.</h3>
+<h3 align="center"> Data analyst passionate about the games industry.</h3>
 
 
 <p align="center">
